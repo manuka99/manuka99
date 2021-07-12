@@ -14,7 +14,7 @@ I'm a self-motivated third year software engineering undergraduate 🎓 of Sri L
 ## 🚀 Technology Stack
 
 - Bootstrap, Blade, Jsp, Framework7, Material UI (React)
-- React, Angular, Vue, Flutter
+- React JS, Next JS, Angular, Vue, Flutter
 - Node JS, Express JS, Koa JS
 - Laravel, Spring Boot, Servlets 
 - HTML, CSS ,JS
