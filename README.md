@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuka Yasas</h1>
-<h3 align="center">I'm a self-motivated third year software engineering undergraduate 🎓 of Sri Lanka Institute of Information Technology University (SLIIT). I am a dedicated and an energetic individual who is eager to develop skills and I use innovative and creative solutions to solve problems and reach my targets. I take great care of the architecture and the code quality of the softwares I develop and I am also an open-source enthusiast and a maintainer.</h3>
+<h3 align="center">I'm a self-motivated software engineering undergraduate 🎓 of Sri Lanka Institute of Information Technology University (SLIIT). I am a dedicated and an energetic individual who is eager to develop skills and I use innovative and creative solutions to solve problems and reach my targets. I take great care of the architecture and the code quality of the softwares I develop and I am also an open-source enthusiast and a maintainer.</h3>
 
 - 📫 How to reach me **manukayasas99@gmail.com**
 </br>
