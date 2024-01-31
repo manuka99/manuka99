@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuka Yasas</h1>
-<h3 align="center">I'm a self-motivated software engineering undergraduate 🎓 of Sri Lanka Institute of Information Technology University (SLIIT). I am a dedicated and an energetic individual who is eager to develop skills and I use innovative and creative solutions to solve problems and reach my targets. I take great care of the architecture and the code quality of the softwares I develop and I am also an open-source and tech enthusiast and a blockchain expert.</h3>
+<h3 align="center">Manuka is a highly talented and dedicated graduate with a B.Sc. (honours) in Information
+Technology, specializing in Software Engineering from Sri Lanka Institute of Information
+Technology (SLIIT). He has extensive knowledge of software development and its related
+principles and is a fast learner who is always eager to develop new skills and innovative solutions
+to solve problems and achieve targets.</h3>
 
 - 📫 How to reach me **manukayasas99@gmail.com**
 </br>
