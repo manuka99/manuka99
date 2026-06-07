@@ -1,17 +1,18 @@
-# Manuka Yasas | Senior Software Engineer
+# Manuka Yasas | Engineering Lead | AI Systems, SaaS Growth & Product Strategy
 
-Manuka is an accomplished Senior Software Engineer with a proven track record in delivering innovative and scalable software solutions. With deep expertise in blockchain DApp development, full-stack engineering, cloud technologies, and agile methodologies, he is dedicated to architecting systems that solve complex, real-world challenges while ensuring operational efficiency and scalability.
+Manuka is a Lead engineer with experience in building scalable SaaS products, AI systems, and cloud-native applications. He has designed and scaled production systems serving 100K+ monthly active users and handling millions of requests across startup and enterprise environments.
 
-Throughout his career, Manuka has successfully led and contributed to a diverse range of projects, working with teams across multiple domains and industries. His experience spans startups and enterprise-level organizations, where he has driven the development of high-impact applications and services. Notably, he has scaled applications from inception to support over 100,000 monthly active users (MAU), and has built systems capable of handling millions of requests, ensuring robust performance and scalability for global audiences.
+He has worked across AI, fintech, blockchain, cybersecurity, gaming, and supply chain platforms, helping teams build reliable and high-performance products from the ground up.
 
-Manuka excels in managing cross-functional teams across geographically distributed locations, effectively coordinating and leading efforts in different time zones and cultures. His ability to navigate the end-to-end development process and balance the demands of rapid growth with performance optimization positions him as a strategic leader capable of delivering results at scale.
+Manuka has collaborated with engineers from Google, Grab, Airbnb, Microsoft, and AWS on projects involving blockchain security, fintech, AI, and gaming in Singapore.
 
-## Technical Skills
-- **Blockchain DAPP**: Ethereum (Any EVM), Solana & Stellar Network.
-- **Languages**: Extensively on Golang, JavaScript(Typescript) & Python.
-- **Cloud Services**: AWS, GCP & Azure.
-- **Tools**: Git, Terraform, Serverless, Fastlane, CI/CD pipelines.
-- **Methodologies**: Agile/Kanban, DevOps, Test-Driven Development (TDD)
+His technical expertise includes Golang, Python, Node.js, Next.js, Kubernetes, AWS, GCP, microservices, and modern AI technologies. He focuses on building systems that are scalable, secure, and easy to maintain.
+
+Beyond engineering, he has led distributed teams, made key architectural decisions, and helped turn ideas into successful products. 
+
+He has also built and successfully exited multiple SaaS products.
+
+Manuka is passionate about AI, software architecture, and creating technology that solves real business problems and delivers meaningful results.
 
 ## Contact Information
 - **Email**: [manukayasas99@gmail.com](mailto:manukayasas99@gmail.com)
